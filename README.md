@@ -7,10 +7,12 @@ Smooth Scrolling and Animations: Advanced smooth scrolling script implemented fo
 Interactive Content: Each section of the website is animated, enhancing user engagement and providing a unique browsing experience.
 Responsive Design: The site is optimized for a wide range of devices, ensuring a comfortable viewing experience on desktops, tablets, and mobile phones.
 GSAP Utilization: GSAP is used for executing complex animations, thanks to its high performance and flexibility.
+
 Technologies
 HTML/CSS: For website structure and styling.
 JavaScript: For interactivity and animations.
 GSAP: The core of the website's animations, ensuring smooth and impactful visual effects.
 ScrollTrigger: A GSAP plugin for triggering animations on scroll.
+
 Conclusion
 This project is an example of how modern web technologies can be used to create engaging and immersive user interfaces. The smooth scrolling and animations with GSAP enhance the user experience, making content viewing not just informative but also captivating.
