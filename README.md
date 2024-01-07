@@ -11,13 +11,9 @@ Responsive Design: The site is optimized for a wide range of devices, ensuring a
 GSAP Utilization: GSAP is used for executing complex animations, thanks to its high performance and flexibility.
 
 <strong>Technologies</strong>
-
 <strong>HTML/CSS:</strong> For website structure and styling.
-
 <strong>JavaScript:</strong> For interactivity and animations.
-
 <strong>GSAP:</strong> The core of the website's animations, ensuring smooth and impactful visual effects.
-
 <strong>ScrollTrigger:</strong> A GSAP plugin for triggering animations on scroll.
 
 
