@@ -10,7 +10,7 @@ Welcome to my project, where I present a unique website embodying smooth scrolli
 <strong>Responsive Design:</strong> The site is optimized for a wide range of devices, ensuring a comfortable viewing experience on desktops, tablets, and mobile phones.<br>
 <strong>GSAP Utilization:</strong> GSAP is used for executing complex animations, thanks to its high performance and flexibility.<br>
 
-<strong>Technologies</strong>
+<strong>Technologies</strong><br>
 <strong>HTML/CSS:</strong> For website structure and styling.<br>
 <strong>JavaScript:</strong> For interactivity and animations.<br>
 <strong>GSAP:</strong> The core of the website's animations, ensuring smooth and impactful visual effects.<br>
