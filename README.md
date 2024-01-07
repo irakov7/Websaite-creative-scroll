@@ -1,5 +1,7 @@
-Smooth Scrolling Animation Website with GSAP
+<strong>Smooth Scrolling Animation Website with GSAP</strong>
+
 <strong>Overview</strong>
+
 Welcome to my project, where I present a unique website embodying smooth scrolling animation using the powerful GreenSock Animation Platform (GSAP). This site is not just about displaying information; it offers users an immersive visual experience, blending modern web development technologies with a creative approach to design.
 
 Features
