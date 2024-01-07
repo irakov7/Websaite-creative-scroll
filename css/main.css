@@ -1,8 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
-	
+	box-sizing: border-box;	
 }
 :root{
 	--index: calc(1vw + 1vh);
@@ -30,7 +29,9 @@ body{
 	position: absolute;
 	left: 37vw;
 	top: 8vh;
-}
+	@media  (max-width: 480px) {
+		left: 16vw;	
+};}
 .main-header {
 	height: 100vh;
 }
@@ -43,11 +44,17 @@ body{
 	width: min-content;
 	bottom: 12vh;
 	line-height: .9;
-}
+	@media  (max-width: 480px) {
+		font-size: calc(var(--index) * 7);
+};}
 .gallery{
 	display: flex;
 	padding: calc(var(--index) * 8) 0;
-}
+	@media  (max-width: 480px) {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+};}
 .gallery > *{
 	flex: 1;
 	display: flex;
