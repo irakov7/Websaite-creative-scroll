@@ -50,5 +50,12 @@ if (ScrollTrigger.isTouch !== 1) {
 
 }
 
+// Media query for mobile devices
+gsap.to(".element", { duration: 1, x: 100 });
+
+if (window.matchMedia("(max-width: 768px)").matches) {
+  gsap.to(".element", { duration: 0.5, x: 50 });
+}
+
 
 
